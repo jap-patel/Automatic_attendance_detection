@@ -69,8 +69,8 @@ we used google colab to run our yolov5 model to run it with gpu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* we can use this project to detect the presence of humnas and mark their presence just like attendance.
-* [google colab](https://colab.research.google.com/drive/1L8dGrpwhmrCnxARontlj2OaV17J88mj2?usp=sharing) will be helpful to run the project 
+* we can use this project to detect the presence of dangerous animals around our surroundings just like we have detected lion,tiger and loepard with it.
+* [google colab](https://colab.research.google.com/drive/1_Dz9LAEygo3CFtTn9hN6eotx6CN2U-Ca?usp=sharing) will be helpful to run the project 
 
 
 <img src="deadly-animals-detected-image.jpg" alt="deadly animals detected image" width="500" height="600"/>
